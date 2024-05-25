@@ -23,13 +23,13 @@ const About = () => {
             <article className='about__card'>
              <FaAward className='about__icon'/> 
               <h5>experiences</h5>
-              <small> - 1 year</small>
+              <small> 2 year</small>
             </article>
           
             <article className='about__card'>
              <FiUsers className='about__icon'/> 
               <h5>clients</h5>
-              <small> 00 clients wordwide</small>
+              <small> 03 clients wordwide</small>
             </article>
 
             <article className='about__card'>

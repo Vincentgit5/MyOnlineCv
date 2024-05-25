@@ -13,7 +13,7 @@ const data = [
     image: IMG2,
     title: "This is portfolio item title",
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/22269784-Scatter-chart-templates',
+    demo: 'https://www.figma.com/proto/HVBaWuxpYPNTCMVMsAfeNf/Untitled?node-id=1-2&t=ARZ0dkBouBaVpjdB-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A2',
   },
   {
     id: 2,
